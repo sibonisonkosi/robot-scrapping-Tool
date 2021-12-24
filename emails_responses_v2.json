@@ -1,0 +1,27 @@
+[
+    {
+        "Campaign id": 12345,
+        "prospect": [
+            {
+                "Email": "example@example.com",
+                "Response type": "responded",
+                "Response": [
+                    {
+                        "Subject": "Subject: RE: Subject",
+                        "Body": " content"
+                    }
+                ]
+            },
+            {
+                "Email": "example2@example2.co.za",
+                "Response type": "responded",
+                "Response": [
+                    {
+                        "Subject": "Subject: RE: Another subject",
+                        "Body": "Another content"
+                    }
+                ]
+            }
+        ]
+    }
+]
